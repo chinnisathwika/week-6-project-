@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hello{
+    background-color: rgb(194, 190, 190);
+
+    padding: 70px;
+}
+.hello h1{
+font-size: 4rem;
+}
+.hello button{
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+
+}
+main{
+    margin: 50px 90px ;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    flex-wrap: wrap;
+}
+.data{
+    width: 300px;}
+
+.row.data{
+    width: 300px;
+}
+.row.data h2{
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.row data p{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.data button{
+    border: none;
+    background-color: rgb(140, 141, 152);
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+hr{
+    margin: 40px 0;
+}
+
+
